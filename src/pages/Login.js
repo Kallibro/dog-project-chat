@@ -21,7 +21,7 @@ loginUser({email,password}).then(({data}) => {
   if(data){
     console.log(data);
     //socket work
-    //navigete to the chart
+    //navigete to the main after login
     navigate("/")
   }
 })

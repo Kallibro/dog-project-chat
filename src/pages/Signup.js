@@ -63,7 +63,7 @@ function Signup() {
     signupUser({name,email,password,picture:url}).then(({data}) => {
       if(data){
         console.log(data);
-        //navigate to the chat
+        //navigate to the main after Signup
         navigate("/")
       }
     })

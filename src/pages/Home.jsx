@@ -1,6 +1,6 @@
 import React from 'react'
 import {Row,Button,Col,Container} from 'react-bootstrap'
-import { LinkContainer } from 'react-router-bootstrap'
+// import { LinkContainer } from 'react-router-bootstrap'
 import './Home.css'
 
 function Home() {
