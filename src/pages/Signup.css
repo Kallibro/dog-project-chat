@@ -1,0 +1,35 @@
+.account-img{
+    height:120px;
+    width:120px;
+    border-radius:50%;
+    border:3px solid rgb(26, 151, 201);   
+    object-fit: cover;
+}
+
+.account-img-box{
+    width:120px;
+    height:120px;
+    margin:0 auto;
+    position: relative;
+    
+}
+
+.add-picture-icon{
+    position:absolute;
+    font-size:1.5rem;
+    right:-20px;
+    top:50px;
+    color:rgb(0, 0, 0);
+    border: 3px solid rgb(69, 173, 199);
+    border-radius: 50%;
+    z-index: 99;
+    cursor: pointer;
+    background-color:rgb(31, 89, 177);
+}
+
+.Signup__bg{
+    background-image: url(https://www.akc.org/wp-content/uploads/2020/03/AdobeStock_268126142.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

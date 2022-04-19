@@ -1,0 +1,13 @@
+.home__bg{
+    background-image: url('https://pngimg.com/uploads/student/student_PNG173.png');
+    height:92vh;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.home-message-icon{
+    margin-left:10px;
+    display: inline-block;
+}
+

@@ -1,0 +1,24 @@
+.login__bg{
+    background-image: url(https://dailygazette.com/wp-content/uploads/2019/05/190521b.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.login-row{
+    height:85vh;
+}
+.form_login{
+    background-image: url(../assets/pngfind.com-mlg-joint-png-881210.png);
+    background-repeat: no-repeat;
+    background-position: -50%;
+    background-size: cover;
+}
+.span_login{
+  
+   font-weight: bold;
+    font-size:1.5rem;
+    margin-right: 19px;
+}
+.toSingnup{
+    margin-top:150px;
+}
